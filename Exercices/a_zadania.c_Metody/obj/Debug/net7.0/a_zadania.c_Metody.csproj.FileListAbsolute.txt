@@ -1,0 +1,15 @@
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\bin\Debug\net7.0\a_zadania.c_Metody.exe
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\bin\Debug\net7.0\a_zadania.c_Metody.deps.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\bin\Debug\net7.0\a_zadania.c_Metody.runtimeconfig.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\bin\Debug\net7.0\a_zadania.c_Metody.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\bin\Debug\net7.0\a_zadania.c_Metody.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\refint\a_zadania.c_Metody.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\a_zadania.c_Metody.genruntimeconfig.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.c_Metody\obj\Debug\net7.0\ref\a_zadania.c_Metody.dll

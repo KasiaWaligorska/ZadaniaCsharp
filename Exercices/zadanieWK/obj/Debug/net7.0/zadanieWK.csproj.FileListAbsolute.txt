@@ -1,0 +1,15 @@
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\bin\Debug\net7.0\zadanieWK.exe
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\bin\Debug\net7.0\zadanieWK.deps.json
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\bin\Debug\net7.0\zadanieWK.runtimeconfig.json
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\bin\Debug\net7.0\zadanieWK.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\bin\Debug\net7.0\zadanieWK.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\refint\zadanieWK.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\zadanieWK.genruntimeconfig.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\zadanieWK\obj\Debug\net7.0\ref\zadanieWK.dll

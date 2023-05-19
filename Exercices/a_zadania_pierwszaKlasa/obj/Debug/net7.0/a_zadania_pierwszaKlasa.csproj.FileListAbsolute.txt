@@ -1,0 +1,12 @@
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\a_zadania_pierwszaKlasa.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\a_zadania_pierwszaKlasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\a_zadania_pierwszaKlasa.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\a_zadania_pierwszaKlasa.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\a_zadania_pierwszaKlasa.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\bin\Debug\net7.0\a_zadania_pierwszaKlasa.deps.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\bin\Debug\net7.0\a_zadania_pierwszaKlasa.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\bin\Debug\net7.0\a_zadania_pierwszaKlasa.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\a_zadania_pierwszaKlasa.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\refint\a_zadania_pierwszaKlasa.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\a_zadania_pierwszaKlasa.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania_pierwszaKlasa\obj\Debug\net7.0\ref\a_zadania_pierwszaKlasa.dll

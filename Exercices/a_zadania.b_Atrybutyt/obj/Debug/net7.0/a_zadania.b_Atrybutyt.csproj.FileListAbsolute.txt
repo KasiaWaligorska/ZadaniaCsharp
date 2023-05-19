@@ -1,0 +1,15 @@
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\bin\Debug\net7.0\a_zadania.b_Atrybutyt.exe
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\bin\Debug\net7.0\a_zadania.b_Atrybutyt.deps.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\bin\Debug\net7.0\a_zadania.b_Atrybutyt.runtimeconfig.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\bin\Debug\net7.0\a_zadania.b_Atrybutyt.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\bin\Debug\net7.0\a_zadania.b_Atrybutyt.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\refint\a_zadania.b_Atrybutyt.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\a_zadania.b_Atrybutyt.genruntimeconfig.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.b_Atrybutyt\obj\Debug\net7.0\ref\a_zadania.b_Atrybutyt.dll

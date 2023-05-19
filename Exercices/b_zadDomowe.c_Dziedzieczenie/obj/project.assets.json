@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "b_zadDomowe.a_Obiekty_Klasy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/b_zadDomowe.a_Obiekty_Klasy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/b_zadDomowe.a_Obiekty_Klasy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b_zadDomowe.a_Obiekty_Klasy/1.0.0": {
+      "type": "project",
+      "path": "../b_zadDomowe.a_Obiekty_Klasy/b_zadDomowe.a_Obiekty_Klasy.csproj",
+      "msbuildProject": "../b_zadDomowe.a_Obiekty_Klasy/b_zadDomowe.a_Obiekty_Klasy.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "b_zadDomowe.a_Obiekty_Klasy >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kwaligorska\\RiderProjects\\Exercices\\b_zadDomowe.c_Dziedzieczenie\\b_zadDomowe.c_Dziedzieczenie.csproj",
+      "projectName": "b_zadDomowe.c_Dziedzieczenie",
+      "projectPath": "C:\\Users\\kwaligorska\\RiderProjects\\Exercices\\b_zadDomowe.c_Dziedzieczenie\\b_zadDomowe.c_Dziedzieczenie.csproj",
+      "packagesPath": "C:\\Users\\kwaligorska\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kwaligorska\\RiderProjects\\Exercices\\b_zadDomowe.c_Dziedzieczenie\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kwaligorska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\kwaligorska\\RiderProjects\\Exercices\\b_zadDomowe.a_Obiekty_Klasy\\b_zadDomowe.a_Obiekty_Klasy.csproj": {
+              "projectPath": "C:\\Users\\kwaligorska\\RiderProjects\\Exercices\\b_zadDomowe.a_Obiekty_Klasy\\b_zadDomowe.a_Obiekty_Klasy.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

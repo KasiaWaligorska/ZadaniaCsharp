@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "b_zadDomowe.c_Dziedzieczenie/1.0.0": {
+        "dependencies": {
+          "b_zadDomowe.a_Obiekty_Klasy": "1.0.0"
+        },
+        "runtime": {
+          "b_zadDomowe.c_Dziedzieczenie.dll": {}
+        }
+      },
+      "b_zadDomowe.a_Obiekty_Klasy/1.0.0": {
+        "runtime": {
+          "b_zadDomowe.a_Obiekty_Klasy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b_zadDomowe.c_Dziedzieczenie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "b_zadDomowe.a_Obiekty_Klasy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\bin\Debug\net7.0\a_zadania.e_Pakiety.exe
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\bin\Debug\net7.0\a_zadania.e_Pakiety.deps.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\bin\Debug\net7.0\a_zadania.e_Pakiety.runtimeconfig.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\bin\Debug\net7.0\a_zadania.e_Pakiety.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\bin\Debug\net7.0\a_zadania.e_Pakiety.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\refint\a_zadania.e_Pakiety.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\a_zadania.e_Pakiety.genruntimeconfig.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.e_Pakiety\obj\Debug\net7.0\ref\a_zadania.e_Pakiety.dll

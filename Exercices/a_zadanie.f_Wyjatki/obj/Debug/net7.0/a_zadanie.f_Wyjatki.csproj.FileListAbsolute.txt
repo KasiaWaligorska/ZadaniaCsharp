@@ -1,0 +1,15 @@
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\bin\Debug\net7.0\a_zadanie.f_Wyjatki.exe
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\bin\Debug\net7.0\a_zadanie.f_Wyjatki.deps.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\bin\Debug\net7.0\a_zadanie.f_Wyjatki.runtimeconfig.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\bin\Debug\net7.0\a_zadanie.f_Wyjatki.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\bin\Debug\net7.0\a_zadanie.f_Wyjatki.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\refint\a_zadanie.f_Wyjatki.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\a_zadanie.f_Wyjatki.genruntimeconfig.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadanie.f_Wyjatki\obj\Debug\net7.0\ref\a_zadanie.f_Wyjatki.dll

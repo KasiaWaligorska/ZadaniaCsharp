@@ -1,0 +1,15 @@
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\bin\Debug\net7.0\a_zadania.d_Konstruktor.exe
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\bin\Debug\net7.0\a_zadania.d_Konstruktor.deps.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\bin\Debug\net7.0\a_zadania.d_Konstruktor.runtimeconfig.json
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\bin\Debug\net7.0\a_zadania.d_Konstruktor.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\bin\Debug\net7.0\a_zadania.d_Konstruktor.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\refint\a_zadania.d_Konstruktor.dll
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.pdb
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\a_zadania.d_Konstruktor.genruntimeconfig.cache
+C:\Users\kwaligorska\RiderProjects\Exercices\a_zadania.d_Konstruktor\obj\Debug\net7.0\ref\a_zadania.d_Konstruktor.dll
